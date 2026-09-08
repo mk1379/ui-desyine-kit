@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",()=>{const demoButton=document.getElementById("demoButton");const alertButton=document.getElementById("alertButton");demoButton.addEventListener("click",()=>alert("JavaScript با موفقیت کار می‌کند! 🎉"));alertButton.addEventListener("click",()=>alert("این یک Alert ساده از UI Desyine Kit است."));});
